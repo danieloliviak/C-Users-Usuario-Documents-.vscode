@@ -1,0 +1,24 @@
+- html significa 
+    hyper
+    text
+    markup
+    language
+
+- css
+ []cascading style seets
+ []apresentasão visual ao cliente
+ []estilo para o html
+
+ anotomia das tags
+   <p atributo=""></p>
+   tem que ter alinhamento
+
+ seletores e anotomia do css
+  -body{
+      color:#333333;
+  }
+  especificidade da a preferencia a quem tem a hereferncia de mais força
+  ha tambem 
+  unidades relativas e umidades estaticas
+  []uidade estatica é medida em pixel
+  
